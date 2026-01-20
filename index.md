@@ -8,3 +8,8 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+## Weekend To-Do List
+- [x] make gay club plans
+- [ ] figure out grocery list to make my bff another steak dinner
+- [ ] run into dr. pinter in a bar 
